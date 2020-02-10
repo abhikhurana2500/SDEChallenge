@@ -11,7 +11,7 @@ Write an interface for a data structure that can provide the moving average of t
 3. Provide any additional explanation about the interface and implementation in a README file.
 
 ### Solution
-The code for the same can be found in the "src" folder
+The code for the same can be found in the "src" folder.
 
 Additional explanation about the interface and implementation :
 Interface :
@@ -51,6 +51,6 @@ We need to provide Google Analytic like services to our customers. Please provid
 4. Run with minimum downtime.
 5. Have the ability to reprocess historical data in case of bugs in the processing logic.
 
-###Solution :
+### Solution
 
 The solution design and explaination for this can be found in the pdf file - DesignQuestion-GoogleAnalyticsLikeSystem.pdf
